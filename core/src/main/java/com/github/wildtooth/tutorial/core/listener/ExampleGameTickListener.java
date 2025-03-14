@@ -1,9 +1,9 @@
-package org.example.core.listener;
+package com.github.wildtooth.tutorial.core.listener;
 
 import net.labymod.api.event.Phase;
 import net.labymod.api.event.Subscribe;
 import net.labymod.api.event.client.lifecycle.GameTickEvent;
-import org.example.core.ExampleAddon;
+import com.github.wildtooth.tutorial.core.ExampleAddon;
 
 public class ExampleGameTickListener {
 

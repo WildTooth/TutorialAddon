@@ -1,4 +1,4 @@
-package org.example.core;
+package com.github.wildtooth.tutorial.core;
 
 import net.labymod.api.addon.AddonConfig;
 import net.labymod.api.client.gui.screen.widget.widgets.input.SwitchWidget.SwitchSetting;
